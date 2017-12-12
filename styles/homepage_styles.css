@@ -1,0 +1,40 @@
+body {
+	background-image: url("../img/hob.png");
+	background-size: cover;
+}
+h1 {
+	text-align: right;
+}
+h6 {
+	text-align: center;
+	float: right;
+    margin-left: 600px;
+    margin-right: 50px;
+}
+.navbar-brand {
+	color: white;
+}
+.nav-link {
+	color: white;
+}
+.navbar {
+	background-color: black;
+}
+.navbar-brand {
+	float: left;
+	font-size: 20px;
+}
+.nav-link {
+	float: right;
+	font-size: 20px;
+}
+.house {
+	max-width: 300px;
+	height: auto;
+}
+.video {
+	margin-left: 20px;
+}
+.card {
+	margin-left: 20px;
+}
